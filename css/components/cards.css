@@ -1,0 +1,16 @@
+.info-cards {
+  padding: 40px 70px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.4);
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.info-cards img {
+  height: 200px;
+}
+
+.info-cards p {
+  color: grey;
+}
